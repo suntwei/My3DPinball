@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: df63675fc0312ff458737b3724a55a74
+timeCreated: 1440582267
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HelpTip_0
+    21300002: HelpTip_1
+    21300004: HelpTip_2
+    21300006: HelpTip_4
+    21300008: HelpTip_3
+    21300010: HelpTip_7
+    21300012: HelpTip_5
+    21300014: HelpTip_9
+    21300016: HelpTip_6
+    21300018: HelpTip_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: HelpTip_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1364
+        width: 341
+        height: 663
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HelpTip_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 74
+        width: 337
+        height: 1218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HelpTip_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 641
+        width: 330
+        height: 1385
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HelpTip_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 59
+        width: 337
+        height: 498
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HelpTip_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 882
+        width: 337
+        height: 1146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HelpTip_7
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 92
+        width: 337
+        height: 713
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HelpTip_5
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1122
+        width: 336
+        height: 905
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HelpTip_9
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 69
+        width: 349
+        height: 978
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HelpTip_6
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1242
+        width: 336
+        height: 786
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HelpTip_8
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 342
+        width: 343
+        height: 834
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

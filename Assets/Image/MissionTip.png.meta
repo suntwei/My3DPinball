@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 0c89c51c53358ab40b13dd3dae227f7c
+timeCreated: 1440413925
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MissionTip_0
+    21300002: MissionTip_1
+    21300004: MissionTip_2
+    21300006: MissionTip_3
+    21300008: MissionTip_4
+    21300010: MissionTip_5
+    21300012: MissionTip_6
+    21300014: MissionTip_7
+    21300016: MissionTip_8
+    21300018: MissionTip_9
+    21300020: MissionTip_10
+    21300022: MissionTip_11
+    21300024: MissionTip_12
+    21300026: MissionTip_13
+    21300028: MissionTip_14
+    21300030: MissionTip_15
+    21300032: MissionTip_16
+    21300034: MissionTip_17
+    21300036: MissionTip_18
+    21300038: MissionTip_19
+    21300040: MissionTip_20
+    21300042: MissionTip_21
+    21300044: MissionTip_22
+    21300046: MissionTip_23
+    21300048: MissionTip_24
+    21300050: MissionTip_25
+    21300052: MissionTip_26
+    21300054: MissionTip_27
+    21300056: MissionTip_28
+    21300058: MissionTip_29
+    21300060: MissionTip_30
+    21300062: MissionTip_31
+    21300064: MissionTip_32
+    21300066: MissionTip_33
+    21300068: MissionTip_34
+    21300070: MissionTip_35
+    21300072: MissionTip_36
+    21300074: MissionTip_37
+    21300076: MissionTip_38
+    21300078: MissionTip_39
+    21300080: MissionTip_40
+    21300082: MissionTip_41
+    21300084: MissionTip_42
+    21300086: MissionTip_43
+    21300088: MissionTip_44
+    21300090: MissionTip_45
+    21300092: MissionTip_46
+    21300094: MissionTip_47
+    21300096: MissionTip_48
+    21300098: MissionTip_49
+    21300100: MissionTip_50
+    21300102: MissionTip_51
+    21300104: MissionTip_52
+    21300106: MissionTip_53
+    21300108: MissionTip_54
+    21300110: MissionTip_55
+    21300112: MissionTip_56
+    21300114: MissionTip_57
+    21300116: MissionTip_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: MissionTip_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_6
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_7
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_8
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_9
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1861
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_15
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_16
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_17
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_18
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_19
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1674
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_23
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_24
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_25
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_26
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_27
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_28
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_29
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1487
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_33
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_34
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_35
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_36
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_37
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_38
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_39
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1300
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_42
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_43
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_44
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_45
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_46
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_47
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_48
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_49
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1113
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 926
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 926
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_52
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 926
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_53
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 926
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_54
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 926
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_55
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 926
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_56
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 926
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_57
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 926
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+    - name: MissionTip_58
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 926
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

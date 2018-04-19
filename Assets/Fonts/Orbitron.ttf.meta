@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0a02e87f5f1cd9c42aa522fc69500bd1
+timeCreated: 1437751291
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 20
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  customCharacters: "\u2191\u2193\u2190\u2192()*&^%$#@!~`-=_+[]{};':\",./<>?\\| \t0123456789qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM"
+  fontRenderingMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
