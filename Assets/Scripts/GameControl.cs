@@ -14,8 +14,14 @@ public class GameControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown (KeyCode.Space)) {
-			ball.velocity = ball.velocity + new Vector3 (10, 0, 30);
+		if (Input.GetKeyDown (KeyCode.RightControl)) 
+		{
+			ball.velocity = ball.velocity + new Vector3 (20, 0, 30);
+		}else if(Input.GetKeyDown (KeyCode.LeftControl))
+		{
+			ball.velocity = ball.velocity + new Vector3 (-20, 0, 30);
+		}else if (Input.GetKeyUp (KeyCode.Space)) {
+			ball.velocity = ball.velocity + new Vector3 (0, 0, -300);
 		}
 	}
 }

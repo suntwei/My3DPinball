@@ -31,7 +31,7 @@ public class StartKick : MonoBehaviour {
 			nowPower = Mathf.Min(maxPower,nowPower+Time.deltaTime*perSecPower);
 			kicker.localScale = kickScale+new Vector3 (0,0,-(nowPower-minPower)/(maxPower-minPower)*0.8f);
 		}
-		if (Input.GetKeyUp (KeyCode.DownArrow) || Input.GetKeyUp (KeyCode.Space)) 
+		if (Input.GetKeyUp (KeyCode.DownArrow)) 
 		{
 			//喷射球
 			Debug.Log("key up"+rigBallList.Count);

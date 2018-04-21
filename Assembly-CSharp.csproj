@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Ball.cs" />
      <Compile Include="Assets\Scripts\FlipperMove.cs" />
      <Compile Include="Assets\Scripts\GameControl.cs" />
      <Compile Include="Assets\Scripts\StartKick.cs" />
